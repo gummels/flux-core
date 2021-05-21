@@ -1,5 +1,5 @@
 on: workflow_dispatch
-name: asan
+name: manual
 jobs:
   check-asan:
     name: address-sanitizer check
